@@ -47,3 +47,9 @@ For this challenge, I assisted a Colorado Board of Elections employee, Tom, with
 ## Election-Audit Summary
 
 An audit of a U.S. Congressional district election in Colorado was successfully completed using Python scripting to automate much of the process. Given a .csv file with raw election data, I developed a program to read the results, perform calculations based upon the data retrieved from said file, and determine the winner of the election. This program could be used in the future to audit a variety of elections, from U.S. senatorial elections down to the local level. By simply providing the raw data in a CSV format, the Python scripting can account for any number of candidates and counties to accurately determine the winner of the election. Besides determine the winner, the program determines how many candidates received votes as well as their percentage of the total vote. For example, a U.S. senatorial election involves determining how many candidates received votes within each senate district. Instead of determining the total number of votes per county, the vote count can be broken down by district. With this information, the winner of the election can then be determined. In the case of a local, county election, the results can be tabulated by precinct or voting station and the winner determined.
+
+## Images
+##### Image 1
+![](Resources/Images/Image1_TotalVotesCast)
+
+##### Image 1
