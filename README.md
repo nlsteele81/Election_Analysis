@@ -50,6 +50,6 @@ An audit of a U.S. Congressional district election in Colorado was successfully 
 
 ## Images
 ##### Image 1
-![](Resources/Images/Image1_TotalVotesCast)
+![](Resources/Images/Image1_TotalVotesCast.png)
 
 ##### Image 1
