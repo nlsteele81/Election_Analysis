@@ -1,6 +1,6 @@
 # Election_Analysis
 Analysis of election data using Python
-![](Resources/Images/Image16PythonLogo.png)
+![](Resources/Images/Image16PythonLogo.jpeg)
 
 ## Project Analysis
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
