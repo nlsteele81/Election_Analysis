@@ -52,4 +52,44 @@ An audit of a U.S. Congressional district election in Colorado was successfully 
 ##### Image 1
 ![](Resources/Images/Image1_TotalVotesCast.png)
 
-##### Image 1
+##### Image 2
+![](Image2_ReadCSVFile.png)
+
+##### Image 3
+![](Image3_PrintElectionResults.png)
+
+##### Image 4
+![](Image4_PrintedElectionResults.png)
+
+##### Image 5
+![](Image5_CountyListAndDictionary.png)
+
+##### Image 6
+![](Image6_ReadCSVFileObtainCounty.png)
+
+##### Image 7
+![](Image7_CountiesList.png)
+
+##### Image 8
+![](Image8_PrintCountyResults.png)
+
+##### Image 9
+![](Image9_PrintedCountyResults.png)
+
+##### Image 10
+![](Image10_LargestCounty.png)
+
+##### Image 11
+![](Image11_CandidateList.png)
+
+##### Image 12
+![](Image12_CandidateVotes.png)
+
+##### Image 13
+![](Image13_TrackCandidateVotes.png)
+
+##### Image 14
+![](Image14_CalcWinningVote.png)
+
+##### Image 15
+![](Image15_WinningVotePrintout.png)
